@@ -1,0 +1,2 @@
+This is my first GitHub repository.
+I have successfully created my account, repository, and uploaded this file.
